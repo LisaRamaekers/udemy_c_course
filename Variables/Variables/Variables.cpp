@@ -20,7 +20,5 @@ int main() {
 
 	cout << "New number of dogs: " << numberDogs << endl;
 
-	cout << "Total animals: " << numberAnimals << endl;
-
 	return 0;
 }
